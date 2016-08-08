@@ -1,0 +1,30 @@
+_repo: Cowper_12772
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Goldwin
+    birthdate: 1823
+    deathdate: 1910
+    gutenberg_agent_id: '2090'
+    url: http://www.gutenberg.org/2009/agents/2090
+    wikipedia: http://en.wikipedia.org/wiki/Goldwin_Smith
+description: In this masterful biography, Goldwin Smith presents the life and works
+  of William Cowper (1731-1800), whom Samuel Taylor Coleridge called the best modern
+  poet." Tracing Cowper's life from his beginnings in England to his death Smith analyzes
+  his major lyrical works and as well as his hymns. Smith also offers an examination
+  of the writer's lasting influence on Romantic poetry.
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 18th century -- Biography'
+- !lcsh 'Cowper, William, 1731-1800'
+- GITenberg
+title: Cowper
+url: http://www.gutenberg.org/ebooks/12772
