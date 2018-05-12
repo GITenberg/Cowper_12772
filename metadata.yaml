@@ -1,5 +1,8 @@
 _repo: Cowper_12772
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, Goldwin
@@ -13,6 +16,8 @@ description: In this masterful biography, Goldwin Smith presents the life and wo
   poet." Tracing Cowper's life from his beginnings in England to his death Smith analyzes
   his major lyrical works and as well as his hymns. Smith also offers an examination
   of the writer's lasting influence on Romantic poetry.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12772#Cowper
 gutenberg_issued: '2004-06-29'
 gutenberg_type: Text
 identifiers:
